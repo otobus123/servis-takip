@@ -1,6 +1,6 @@
 'use client';
 import React, { useEffect, useState } from 'react';
-import 'leaflet/dist/leaflet.css';
+
 
 export default function HaritaSayfasi() {
   const [vehicles, setVehicles] = useState([]);
